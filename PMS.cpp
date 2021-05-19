@@ -110,7 +110,7 @@ void MENU :: MAIN_MENU(void)
 		gotoxy(30,16) ;
 		cout <<"0: QUIT" ;
 		gotoxy(5,23);
-		cout<<"Made by Kumar Kislay";
+		cout<<"Made by Yash Mishra";
 		gotoxy(30,18) ;
 		cout <<"ENTER YOUR CHOICE :" ;
 
